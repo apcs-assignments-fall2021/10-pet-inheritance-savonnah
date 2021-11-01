@@ -8,6 +8,7 @@ public class Dog extends Pet {
         this.breed = breed;
     }
     public Dog() {
+        super("bob", 2);
         breed = "pug";
     }
 

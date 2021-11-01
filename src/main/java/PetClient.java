@@ -15,6 +15,9 @@ public class PetClient {
         System.out.println(d1); // Doggy 5 husky
         p1.makeNoise(); // Bark!
 
+        Dog d2 = new Dog();
+        System.out.println(d2);
+
 
     }
 }
